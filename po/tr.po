@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.konstantintutsch.Caffeine package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Mehmet Keçeci <bilginomi@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.konstantintutsch.Caffeine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-16 12:35+0200\n"
+"PO-Revision-Date: 2024-10-23 00:07+0200\n"
+"Last-Translator: Mehmet Keçeci <bilginomi@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: Gtranslator 46.1\n"
+
+#. Details
+#: src/application.c:105
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:7
+msgid "Calculate your coffee"
+msgstr "Kahvenizi hesaplayın"
+
+#: src/application.c:116
+msgid "translator-credits"
+msgstr "Mehmet Keçeci <bilginomi@gmail.com>"
+
+#: src/application.c:119
+msgid "Dependencies"
+msgstr "Bağımlılıklar"
+
+#: src/window.c:161
+msgid "Ratio copied"
+msgstr "Kopyalanan oran"
+
+#: data/ui/window.blp:10 data/ui/window.blp:35
+#: data/com.konstantintutsch.Caffeine.desktop.in.in:4
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:6
+msgid "Caffeine"
+msgstr "Kafein"
+
+#: data/ui/window.blp:30
+msgid "About Caffeine"
+msgstr "Kafein Hakkında“"
+
+#: data/ui/window.blp:52
+msgid "Weight"
+msgstr "Ağırlık"
+
+#: data/ui/window.blp:55
+msgid "Ground"
+msgstr "Çekilmiş kahve"
+
+#: data/ui/window.blp:69
+msgid "Extract"
+msgstr "Kahve özü"
+
+#: data/ui/window.blp:90
+msgid "No data"
+msgstr "Veri yok"
+
+#: data/ui/window.blp:91
+msgid "Copy ratio"
+msgstr "Kopyalama oranı"
+
+#: data/com.konstantintutsch.Caffeine.desktop.in.in:9
+msgid "coffee;recipe;ratio;"
+msgstr "kahve;târif;oran;"
+
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:9
+msgid ""
+"Caffeine is a utility for coffee enthusiasts. It's sole purpose is to "
+"calculate the extraction ratio of a coffee."
+msgstr ""
+"Kafein, kahve tutkunları için bir yardımcıdır. Tek amacı, bir kahvenin "
+"ekstraksiyon oranını hesaplamaktır"
+
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:10
+msgid ""
+"Örneğin, 18 gr ağırlığındaki 10 gr kahve çekirdeğinden demlenen "
+"bir espressonun ekstraksiyon oranı 1: 1,8 olacaktır."
+msgstr ""
+"Например за еспресо, приготвено от 10г смляно кафе с 18г тегло, "
+"съотношението на екстракция е 1 : 1,8."
+
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:32
+msgid "Light Appearance"
+msgstr "Açık Görünüm"
+
+#: data/com.konstantintutsch.Caffeine.metainfo.xml.in.in:36
+msgid "Dark Appearance"
+msgstr "Karanlık Görünüm"
